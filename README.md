@@ -12,9 +12,9 @@
 * You will get several output
 * This is one Example: http://mediamusic-journal.com/video/
 
-* Add this your Index URL to path.txt file and Save
+* Add this Index URL to path.txt file and Save
 
-* And Run the Program.
+* And Run the Program by running the batch file.
 
 * You might have to run again and again to scrape as it scrapes deeper and deeper.
 * Reason if it continuously keeps scraping there is a chance the site just block you for giving constent request.
