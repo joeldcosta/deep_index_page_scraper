@@ -5,9 +5,9 @@
 * First Get Index Page
 
 * Search by this Code in Google 
-* :::::::::::::::::::::::::::::::::::
+* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 * intitle:"index of" "video" "*.mp4"
-* :::::::::::::::::::::::::::::::::::
+* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * You will get several output
 * This is one Example: http://mediamusic-journal.com/video/
