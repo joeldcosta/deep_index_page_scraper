@@ -1,0 +1,14 @@
+First Get Index Page
+
+Search by this Code in Google 
+:::::::::::::::::::::::::::::::::::
+intitle:"index of" "video" "*.mp4"
+:::::::::::::::::::::::::::::::::::
+
+output Example: http://mediamusic-journal.com/video/
+
+
+Note:- If you start getting error while auto deleting path_.txt file 
+it means the scraping is over and there is nothing left to scrape.
+I purposely kept it this way so we may know if the scraping was truly 
+over or there was internet glitch or some unknown issue.
