@@ -6,11 +6,6 @@ from time import strftime
 import urllib.parse
 
 
-#url = "https://artserotica.com/videos/"
-#url = "https://h-onnano.co/wp-content/uploads/2021/06/?SD"
-#url="<Enter INDEX PAGE URL>"
-#url = "http://213.32.1.25/1pondo-101112_447-HD/"
-
 
 d = time.strftime("%d") # 06
 m = time.strftime("%m") # 01
